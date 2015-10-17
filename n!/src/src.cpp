@@ -7,7 +7,7 @@
 //============================================================================
 
 #include<iostream>
-
+#include<climits>
 using namespace std; //DON'T FORGET THIS AGAIN!
 int main(){
 	long n,n1,Temp;
